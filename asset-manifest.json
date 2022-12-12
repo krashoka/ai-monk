@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ai_monk-assignment/static/css/main.d4e1bef9.css",
-    "main.js": "/ai_monk-assignment/static/js/main.23cfb7b2.js",
-    "static/js/787.b7cad71e.chunk.js": "/ai_monk-assignment/static/js/787.b7cad71e.chunk.js",
-    "index.html": "/ai_monk-assignment/index.html",
-    "main.d4e1bef9.css.map": "/ai_monk-assignment/static/css/main.d4e1bef9.css.map",
-    "main.23cfb7b2.js.map": "/ai_monk-assignment/static/js/main.23cfb7b2.js.map",
-    "787.b7cad71e.chunk.js.map": "/ai_monk-assignment/static/js/787.b7cad71e.chunk.js.map"
+    "main.css": "/ai-monk/static/css/main.d4e1bef9.css",
+    "main.js": "/ai-monk/static/js/main.45fd8972.js",
+    "static/js/787.b7cad71e.chunk.js": "/ai-monk/static/js/787.b7cad71e.chunk.js",
+    "index.html": "/ai-monk/index.html",
+    "main.d4e1bef9.css.map": "/ai-monk/static/css/main.d4e1bef9.css.map",
+    "main.45fd8972.js.map": "/ai-monk/static/js/main.45fd8972.js.map",
+    "787.b7cad71e.chunk.js.map": "/ai-monk/static/js/787.b7cad71e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4e1bef9.css",
-    "static/js/main.23cfb7b2.js"
+    "static/js/main.45fd8972.js"
   ]
 }
